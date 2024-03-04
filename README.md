@@ -1,16 +1,12 @@
-### Hi there 👋
+# 👋
 
-<!--
-**pedrooliveiralopes/pedrooliveiralopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<strong>DevOps and Software Engineer</strong> at Itaú Unibanco
+<br>
+Systems Development & Analysis at [@BandTec](https://www.sptech.school/)
+<br>
+Contacts:
+```
+✉️ pedro_08lopes@hotmail.com
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![DevOps](https://github.com/pedrooliveiralopes/pedrooliveiralopes/assets/110927673/c33a8c6b-0ffe-4a81-8592-118cdd52fedb)
